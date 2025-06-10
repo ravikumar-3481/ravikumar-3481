@@ -1,0 +1,23 @@
+Welcome To Emi Calculator, Here You can calculate 
+your Emi ,Intrest by Enter Your Principal Amount (₹), Annual Interest Rate (%), And Tenure (in years)
+ 
+
+    Enter Your Loan Amount (₹) 
+100000
+
+    Enter Annual Intrest Rate (%) 
+99.09
+
+    Enter tenure Years 
+5
+
+📌 Your Monthly Emi : 8328.8 
+💰 Your Total Payment : 499728.13 
+📈 Your Total Interest : 399728.13
+ 
+ 
+ Here is Your Result (8328.8, 499728.13, 399728.13)
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
