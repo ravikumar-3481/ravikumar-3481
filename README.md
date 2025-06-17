@@ -1,105 +1,24 @@
-## Hi there 👋
-📊 EMI Calculator (Python)
+# 💫 About Me:
+     🚀 Hi, I’m Ravi!<br>👨‍💻 Passionate B.Tech CSE (AI & DS) student | Future AI Innovator<br>💡 I love building smart solutions using Python, React, and Machine Learning<br>🔧 Currently learning DSA, Web Dev, and crafting my own AI assistant (AIVA Ultra)<br>🌱 Always curious, always building, always learning<br>📫 Let’s connect: LinkedIn • Portfolio • Email<br>
 
-This is a simple Python-based **EMI (Equated Monthly Installment) Calculator**. It calculates the monthly EMI, total interest, and total payment for a loan based on user input.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_am_ravi.07?igsh=MWp0MnQ5b29xZmVmcg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-vishwakarma67) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_am_ravi09?t=53lJAgWP-FfcJw2q2qRE0g&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravivish517@gmail.com) 
 
-## 🚀 Features
+# 💻 Tech Stack:
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Takes user input for:
-  - Loan Amount (Principal)
-  - Annual Interest Rate (%)
-  - Loan Tenure (in Years)
-- Calculates:
-  - Monthly EMI
-  - Total Payment over loan period
-  - Total Interest payable
-- Clean and beginner-friendly code
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-
-## 🧮 Formula Used
-
-\[
-EMI = \frac{P \times R \times (1 + R)^N}{(1 + R)^N - 1}
-\]
-
-Where:
-
-- `P` = Principal loan amount  
-- `R` = Monthly interest rate = Annual Rate / 12 / 100  
-- `N` = Loan tenure in months = Years × 12
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ravikumar-3481&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 How to Run
-
-1. Make sure you have **Python 3.x** installed.
-2. Copy the code into a file named `emi_calculator.py`
-3. Open terminal or command prompt.
-4. Run the file:
-
-```bash
-python emi_calculator.py
-
-5. Enter the required inputs when prompted.
-
-
-
-
----
-
-📌 Sample Input/Output
-
-Enter Your Loan Amount (₹): 100000
-Enter Annual Interest Rate (%): 12
-Enter Tenure (in Years): 2
-
-📌 Your Monthly EMI: ₹4707.39
-💰 Total Payment Over Loan Period: ₹112977.36
-📈 Total Interest Payable: ₹12977.36
-
-
----
-
-🔧 Future Enhancements (Optional Ideas)
-
-Add a Graphical UI using Tkinter
-
-Convert into a Web App using Flask or Streamlit
-
-Save results in a file (PDF or TXT)
-
-Add currency and language options
-
-
-
----
-
-🙌 Author
-
-Ravi – Student of B.Tech CSE (AI & DS)
-AKS University, Satna
-
-
----
-
-📘 License
-
-This project is open-source and free to use for learning and personal use.
-
-<!--
-**ravikumar-3481/ravikumar-3481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
