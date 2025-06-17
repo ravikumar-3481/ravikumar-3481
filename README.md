@@ -1,4 +1,4 @@
-##💫 About Me:
+💫 About me:
      🚀 Hi, I’m Ravi!<br>👨‍💻 Passionate B.Tech CSE (AI & DS) student | Future AI Innovator<br>💡 I love building smart solutions using Python, React, and Machine Learning<br>🔧 Currently learning DSA, Web Dev, and crafting my own AI assistant (AIVA Ultra)<br>🌱 Always curious, always building, always learning<br>📫 Let’s connect: LinkedIn • Portfolio • Email<br>
 
 
