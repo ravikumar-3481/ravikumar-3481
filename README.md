@@ -2,7 +2,7 @@
      🚀 Hi, I’m Ravi!<br>👨‍💻 Passionate B.Tech CSE (AI & DS) student | Future AI Innovator<br>💡 I love building smart solutions using Python, React, and Machine Learning<br>🔧 Currently learning DSA, Web Dev, and crafting my own AI assistant (AIVA Ultra)<br>🌱 Always curious, always building, always learning<br>📫 Let’s connect: LinkedIn • Portfolio • Email<br>
 
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Ravi - Future AI Innovator" width="100%" />
+  <img src="1765264663879.jpg" alt="Ravi - Future AI Innovator" width="100%" />
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/i_am_ravi.07?igsh=MWp0MnQ5b29xZmVmcg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://profileravi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio">
   </a>
   <a href="YOUR_LEETCODE_PROFILE" target="_blank">
