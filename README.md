@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Ravi - Future AI Innovator" width="100%" />
+  <img src="20251031_211030.jpg" alt="Ravi - Future AI Innovator" width="100%" />
 </div>
 
 <div align="center">
