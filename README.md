@@ -57,7 +57,7 @@
 
 <h1>🙋 Ravi Kumar Vishwakarma</h1>
 
-<h3>🎓 B.Tech CSE — Artificial Intelligence & Data Science &nbsp;|&nbsp; <em>2025 – 2029</em></h3>
+<h3>🎓 B.Tech CSE — Artificial Intelligence & Data Science &nbsp;|&nbsp; <em>2026 – 2029</em></h3>
 
 <br/>
 
