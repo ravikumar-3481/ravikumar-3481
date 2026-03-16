@@ -179,6 +179,9 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <br/>
 
 ![Top Languages](https://stats.pphat.top/languages?username=ravikumar-3481&type=pie)
+<br/>
+![Top language](https://stats.pphat.top/languages?username=ravikumar-3481)
+<br/>
 ### 🎯 Current Focus
 
 > Building production-grade AI-powered financial intelligence platforms that bridge the gap between raw data and real decisions.
